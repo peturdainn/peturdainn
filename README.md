@@ -1,10 +1,10 @@
 Stuff I'm interested in or working on:
-- IoT
+- IoT & embedded
 - selfhosting
 - tools to make life easier
 - random itches to scratch 😄
 
-Find me on Mastodon and Matrix
+Find me on [Mastodon](https://mastodon.social/@peturdainn) and [Matrix](@petur:lunda.be)
 
 I write embedded C for a living but as it is all covered by NDA I can't even talk about it
 
