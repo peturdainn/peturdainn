@@ -1,4 +1,12 @@
-### Hi there 👋
+Stuff I'm interested in or working on:
+- IoT
+- selfhosting
+- tools to make life easier
+- random itches to scratch 😄
+
+Find me on Mastodon and Matrix
+
+I write embedded C for a living but as it is all covered by NDA I can't even talk about it
 
 <!--
 **peturdainn/peturdainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
